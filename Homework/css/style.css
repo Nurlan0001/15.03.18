@@ -1,0 +1,26 @@
+
+.main{
+	background-image: url("../images/sky.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 750px;
+	width: 100%;
+	display: inline-block;
+}
+.content h4{
+	font-size: small;
+margin-left: 200px;
+margin-top: 300px
+}
+.content h1{
+margin-left: 200px;
+margin-top: 10px;
+}
+.content p{
+	margin-left: 200px;
+margin-top: 10px;
+}
+.content h5{
+		margin-left: 200px;
+margin-top: 10px;
+}
